@@ -1,0 +1,5 @@
+## synopsis
+```
+$ go build
+$ ./lust
+```
